@@ -1,6 +1,7 @@
 {
     "name": "meriv-language-extension",
     "displayName": "Meriv Language Extension",
+    "icon": "images/meriv128.png",
     "description": "",
     "version": "0.0.1",
     "engines": {

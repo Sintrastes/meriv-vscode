@@ -2,9 +2,7 @@
 
 This plugin provides basic syntax highlighting capabilities for the Meriv programming language.
 
-\!\[Screenshot\]\(images/meriv_screenshot.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+![Screenshot](./images/merivscreenshot.png)
 
 ## Known Issues
 
