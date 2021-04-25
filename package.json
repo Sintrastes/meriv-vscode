@@ -1,0 +1,25 @@
+{
+    "name": "meriv-language-extension",
+    "displayName": "Meriv Language Extension",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "meriv",
+            "aliases": ["Meriv", "meriv"],
+            "extensions": [".mv"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "meriv",
+            "scopeName": "source.meriv",
+            "path": "./syntaxes/meriv.tmLanguage.json"
+        }]
+    }
+}
